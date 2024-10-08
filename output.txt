@@ -1,0 +1,6 @@
+beforesorting
+15 5 10 20 
+after sorting
+5 10 15 20 
+after deletion
+5 15 20 
